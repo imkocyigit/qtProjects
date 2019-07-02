@@ -1,0 +1,3 @@
+/home/mete/qtprojects/dnm/CMakeFiles/rebuild_cache.dir
+/home/mete/qtprojects/dnm/CMakeFiles/dnm.dir
+/home/mete/qtprojects/dnm/CMakeFiles/edit_cache.dir

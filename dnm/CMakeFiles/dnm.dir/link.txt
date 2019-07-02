@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dnm.dir/main.cpp.o  -o dnm 
